@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1080" height="1080" viewBox="0 0 1080 1080" xml:space="preserve">
+<desc>Created with Fabric.js 5.2.4</desc>
+<defs>
+</defs>
+<g transform="matrix(1 0 0 1 540 540)" id="4d3cceba-b0ee-46a0-b9f4-d3850a29bd88"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke"  x="-540" y="-540" rx="0" ry="0" width="1080" height="1080" />
+</g>
+<g transform="matrix(1 0 0 1 540 540)" id="fcb06ff5-2c2c-434c-9f9b-e0cac43f0c57"  >
+</g>
+<g transform="matrix(1 0 0 1 540 540)" id="39168a3e-3356-4967-87fc-d2ce228f46ee"  >
+<path style="stroke: rgb(252,188,48); stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-54.14, -8.4)" d="M 83.313 15.9659 L 83.5008 16.1776 L 83.6877 15.9651 L 95.2004 2.87801 L 106.413 15.5655 L 106.589 15.7648 L 106.777 15.5768 L 107.477 14.8768 L 107.643 14.7106 L 107.487 14.5345 L 95.3874 0.834504 L 95.1996 0.621924 L 95.0123 0.834875 L 83.4992 13.9224 L 71.887 0.834084 L 71.6992 0.622405 L 71.5123 0.834875 L 60 13.9215 L 48.4877 0.834875 L 48.3 0.621499 L 48.1123 0.834875 L 36.5992 13.9224 L 24.987 0.834084 L 24.7992 0.622405 L 24.6123 0.834875 L 13.1004 13.921 L 1.98805 1.23527 L 1.82341 1.04732 L 1.63537 1.21186 L 0.835374 1.91186 L 0.646356 2.07725 L 0.81262 2.2655 L 12.9126 15.9655 L 13.1004 16.1781 L 13.2877 15.9651 L 24.8008 2.87759 L 36.413 15.9659 L 36.6008 16.1776 L 36.7877 15.9651 L 48.3 2.8785 L 59.8123 15.9651 L 60 16.1785 L 60.1877 15.9651 L 71.7008 2.87759 L 83.313 15.9659 Z" stroke-linecap="round" />
+</g>
+</svg>
